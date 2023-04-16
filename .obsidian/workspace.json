@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "b799a73c5c42acbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "642c4ad8c61c8b03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b896978eafc5b4a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a87a8caa9fd10d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a4328a33593414f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2de5291612e5fc67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e50ddca572fa0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "29b6ff167bd9e913",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bef1cbb9a7576afa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca817f98478e5627",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d8422e19506e260",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dabc2e80ad20193e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a540f0005c77a4fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7f23a1094cbd819",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfaacba1b8b95555",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7a87a8caa9fd10d2",
+  "lastOpenFiles": [
+    "Ch1.md",
+    "未命名.md",
+    "Ch4 树和二叉树.md",
+    "Ch2.md",
+    "image/linklist.webp",
+    "未命名.canvas",
+    "Read me.md"
+  ]
+}
